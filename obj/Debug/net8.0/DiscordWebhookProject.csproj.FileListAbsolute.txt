@@ -1,0 +1,14 @@
+C:\Users\engfa\DiscordWebhookProject\bin\Debug\net8.0\DiscordWebhookProject.exe
+C:\Users\engfa\DiscordWebhookProject\bin\Debug\net8.0\DiscordWebhookProject.deps.json
+C:\Users\engfa\DiscordWebhookProject\bin\Debug\net8.0\DiscordWebhookProject.runtimeconfig.json
+C:\Users\engfa\DiscordWebhookProject\bin\Debug\net8.0\DiscordWebhookProject.dll
+C:\Users\engfa\DiscordWebhookProject\bin\Debug\net8.0\DiscordWebhookProject.pdb
+C:\Users\engfa\DiscordWebhookProject\obj\Debug\net8.0\DiscordWebhookProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engfa\DiscordWebhookProject\obj\Debug\net8.0\DiscordWebhookProject.AssemblyInfoInputs.cache
+C:\Users\engfa\DiscordWebhookProject\obj\Debug\net8.0\DiscordWebhookProject.AssemblyInfo.cs
+C:\Users\engfa\DiscordWebhookProject\obj\Debug\net8.0\DiscordWebhookProject.csproj.CoreCompileInputs.cache
+C:\Users\engfa\DiscordWebhookProject\obj\Debug\net8.0\DiscordWebhookProject.dll
+C:\Users\engfa\DiscordWebhookProject\obj\Debug\net8.0\refint\DiscordWebhookProject.dll
+C:\Users\engfa\DiscordWebhookProject\obj\Debug\net8.0\DiscordWebhookProject.pdb
+C:\Users\engfa\DiscordWebhookProject\obj\Debug\net8.0\DiscordWebhookProject.genruntimeconfig.cache
+C:\Users\engfa\DiscordWebhookProject\obj\Debug\net8.0\ref\DiscordWebhookProject.dll
